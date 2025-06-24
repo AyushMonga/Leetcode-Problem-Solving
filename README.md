@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1801-average-time-of-process-per-machine) |
+## Array
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 <!---LeetCode Topics End-->
