@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
