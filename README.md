@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search
@@ -37,9 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
