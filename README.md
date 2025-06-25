@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Hash Table
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
