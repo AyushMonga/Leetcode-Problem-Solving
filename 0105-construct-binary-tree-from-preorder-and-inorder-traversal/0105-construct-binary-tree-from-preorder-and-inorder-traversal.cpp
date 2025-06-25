@@ -11,7 +11,7 @@
  * };
  */
 class Solution {
-private:
+public:
     unordered_map<int, int> inorderIndexMap;
     int preIndex = 0;
 
@@ -20,23 +20,18 @@ private:
             return nullptr;
         }
 
-        // Pick current node from preorder traversal
         int rootVal = preorder[preIndex++];
         TreeNode* root = new TreeNode(rootVal);
 
-        // Find the index of this node in inorder traversal
         int inIndex = inorderIndexMap[rootVal];
 
-        // Recursively build left and right subtrees
         root->left = buildTreeHelper(preorder, inStart, inIndex - 1);
         root->right = buildTreeHelper(preorder, inIndex + 1, inEnd);
 
         return root;
     }
 
-public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        // Build a map of inorder values to their indices
         for (int i = 0; i < inorder.size(); ++i) {
             inorderIndexMap[inorder[i]] = i;
         }
