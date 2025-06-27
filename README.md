@@ -66,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
+| [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
 ## String Matching
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
 ## Hash Function
 |  |
 | ------- |
