@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 ## Sliding Window
 |  |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
