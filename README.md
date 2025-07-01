@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
