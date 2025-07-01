@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
 ## String Matching
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
@@ -160,4 +163,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
