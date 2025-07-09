@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [1236-n-th-tribonacci-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [1236-n-th-tribonacci-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
