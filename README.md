@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
 ## Hash Function
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Recursion
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
