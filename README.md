@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3034-points-that-intersect-with-cars) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
