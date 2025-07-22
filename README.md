@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 ## Database
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0572-subtree-of-another-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 ## Stack
 |  |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -276,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
