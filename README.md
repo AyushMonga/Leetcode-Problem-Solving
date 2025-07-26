@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
