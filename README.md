@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0572-subtree-of-another-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+| [0871-keys-and-rooms](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
+| [0871-keys-and-rooms](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
