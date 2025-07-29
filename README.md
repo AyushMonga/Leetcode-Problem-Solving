@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 ## Database
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
