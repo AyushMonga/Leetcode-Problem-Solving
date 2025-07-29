@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0046-permutations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
