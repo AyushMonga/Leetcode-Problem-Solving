@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
+| [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1813-maximum-erasure-value) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
