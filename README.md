@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0871-keys-and-rooms) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0871-keys-and-rooms) |
 ## Union Find
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
