@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
