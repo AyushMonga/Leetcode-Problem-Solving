@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0078-subsets) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0118-pascals-triangle) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1036-rotting-oranges) |
 ## Trie
