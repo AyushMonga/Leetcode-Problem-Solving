@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [1236-n-th-tribonacci-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
