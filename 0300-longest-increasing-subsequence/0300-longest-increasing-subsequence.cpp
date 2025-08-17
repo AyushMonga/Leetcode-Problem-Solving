@@ -1,25 +1,18 @@
 class Solution {
 public:
-int getAns(vector<int>&arr, int n, int ind, int prev_index, vector<vector<int>>& dp) {
-    if (ind == n)
-        return 0;
-        
-    if (dp[ind][prev_index + 1] != -1)
-        return dp[ind][prev_index + 1];
-    
-    int notTake = 0 + getAns(arr, n, ind + 1, prev_index, dp);
-    
-    int take = 0;
-    
-    if (prev_index == -1 || arr[ind] > arr[prev_index]) {
-        take = 1 + getAns(arr, n, ind + 1, ind, dp);
+    int helper(int idx,int prev, vector<int>&nums,vector<vector<int>>&dp){
+        if(idx==nums.size())return 0;
+        if(dp[idx][prev+1]!=-1)return dp[idx][prev+1];
+        int len1=0;
+        if(prev==-1 || nums[idx]>nums[prev]){
+            len1=1+helper(idx+1,idx,nums,dp);
+        }
+        int len2=0+helper(idx+1,prev,nums,dp);
+        return dp[idx][prev+1]=max(len1,len2);
     }
-    
-    return dp[ind][prev_index + 1] = max(notTake, take);
-}
     int lengthOfLIS(vector<int>& nums) {
-    int n=nums.size();
-    vector<vector<int>> dp(n, vector<int>(n + 1, -1));
-    return getAns(nums, n, 0, -1, dp);
+        int n=nums.size();
+        vector<vector<int>>dp(n,vector<int>(n+1,-1));
+        return helper(0,-1,nums,dp);
     }
 };
