@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0572-subtree-of-another-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [0801-is-graph-bipartite](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0871-keys-and-rooms) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0871-keys-and-rooms) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1813-maximum-erasure-value) |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
