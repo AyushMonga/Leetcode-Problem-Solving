@@ -1,42 +1,34 @@
 class Solution {
 public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        vector<vector<int>> graph(n);  // Initialize graph with n nodes
-        
-        // Build the adjacency list
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                if(isConnected[i][j] == 1) {
-                    graph[i].push_back(j);
-                }
+    void dfs(int node, vector<vector<int>>& adj,vector<int>&vis){
+        vis[node]=1;
+        for(auto it:adj[node]){
+            if(!vis[it]){
+                dfs(it,adj,vis);
             }
         }
-        
-        vector<int> visited(n, 0);
-        int provinces = 0;
-        
-        for(int i = 0; i < n; i++) {
-            if(!visited[i]) {
-                provinces++;  
-                stack<int> st;
-                st.push(i);
-                visited[i] = 1;
-                
-                while(!st.empty()) {
-                    int u = st.top();
-                    st.pop();
-                    
-                    for(int v : graph[u]) {
-                        if(!visited[v]) {
-                            visited[v] = 1;
-                            st.push(v);
-                        }
+    }
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        int n=isConnected.size();
+        vector<vector<int>>adj(n);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(i!=j){
+                    if(isConnected[i][j]==1){
+                        adj[i].push_back(j);
                     }
                 }
             }
         }
-        
+        vector<int>vis(n,0);
+        int provinces=0;
+        for(int i=0;i<n;i++){
+            if(vis[i]!=1){
+                provinces++;
+                dfs(i,adj,vis);
+            }
+        }
         return provinces;
+
     }
 };
