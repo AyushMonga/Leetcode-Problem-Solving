@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0040-combination-sum-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
