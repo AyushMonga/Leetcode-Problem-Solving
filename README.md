@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
