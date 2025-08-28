@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
