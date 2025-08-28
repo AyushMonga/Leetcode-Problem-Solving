@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
