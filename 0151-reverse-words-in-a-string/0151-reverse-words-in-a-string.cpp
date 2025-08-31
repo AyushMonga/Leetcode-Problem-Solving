@@ -9,18 +9,17 @@ public:
         }
         int i=0;
         int j=words.size()-1;
-        while(i<=j){
+        while(i<j){
             swap(words[i],words[j]);
             i++;
             j--;
         }
-        string ans="";
-        for(int i=0;i<words.size();i++){
+        string ans;
+        for(int i=0;i<words.size()-1;i++){
             ans+=words[i];
-            if(i!=words.size()-1){
-                ans+=" ";
-            }
+            ans+=" ";
         }
+        ans+=words[words.size()-1];
         return ans;
     }
 };
