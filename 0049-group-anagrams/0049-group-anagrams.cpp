@@ -4,8 +4,8 @@ public:
         unordered_map<string,vector<string>>mp;
         for(auto it:strs){
             string key=it;
-            sort(key.begin(),key.end());
-            mp[key].push_back(it);
+            sort(it.begin(),it.end());
+            mp[it].push_back(key);
         }
         vector<vector<string>>ans;
         for(auto it:mp){
