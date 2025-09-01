@@ -12,13 +12,13 @@
 class Solution {
 public:
     int depth(TreeNode* root){
-        if(root==nullptr)return 0;
-        int left=1+depth(root->left);
-        int right=1+depth(root->right);
-        return max(left,right);
+        if(!root)return 0;
+        return 1+max(depth(root->left),depth(root->right));
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==nullptr)return 0;
+        if(!root){
+            return 0;
+        }
         int left=depth(root->left);
         int right=depth(root->right);
         return max(left+right,max(diameterOfBinaryTree(root->left),diameterOfBinaryTree(root->right)));
