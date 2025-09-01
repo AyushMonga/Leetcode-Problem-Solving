@@ -1,20 +1,18 @@
 class NumArray {
 public:
-    vector<int>presum;
+    vector<int>ps;
     NumArray(vector<int>& nums) {
-        presum.push_back(nums[0]);
-        int sum=nums[0];
+        ps.push_back(nums[0]);
         for(int i=1;i<nums.size();i++){
-            sum+=nums[i];
-            presum.push_back(sum);
+            ps.push_back(ps[i-1]+nums[i]);
         }
     }
     
     int sumRange(int left, int right) {
         if(left==0){
-            return presum[right];
+            return ps[right];
         }
-        return presum[right]-presum[left-1];
+        return ps[right]-ps[left-1];
     }
 };
 
