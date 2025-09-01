@@ -11,12 +11,12 @@
  */
 class Solution {
 public:
-    bool sametree(TreeNode*root,TreeNode*subRoot){
+    bool check(TreeNode* root,TreeNode* subRoot){
         if(!root && !subRoot){
             return true;
         }
-        if(root && subRoot && root->val == subRoot->val){
-            return sametree(root->left,subRoot->left)&& sametree(root->right,subRoot->right);
+        if(root && subRoot && root->val==subRoot->val){
+            return check(root->left,subRoot->left)&& check(root->right,subRoot->right);
         }
         return false;
     }
@@ -27,9 +27,7 @@ public:
         if(!root){
             return false;
         }
-        if(sametree(root,subRoot)){
-            return true;
-        }
-        return isSubtree(root->left,subRoot)|| isSubtree(root->right,subRoot);
+        if(check(root,subRoot))return true;
+        return isSubtree(root->left,subRoot)||isSubtree(root->right,subRoot);
     }
 };
