@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
+| [3830-find-closest-person](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3830-find-closest-person) |
 ## String Matching
 |  |
 | ------- |
