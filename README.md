@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0131-palindrome-partitioning) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
