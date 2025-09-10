@@ -33,4 +33,29 @@ public:
         }
         return ans;
     }
+    // memoization;
+
+    // int coinChange(vector<int>&coins,int amount){
+    //     if(amount==0)return 0;
+    //     vector<vector<int>>dp(coins.size(),vector<int>(amount+1,INT_MAX-1));
+    //     for (int j = 0; j <= amount; j++) {
+    //     if (j % coins[0] == 0) {
+    //             dp[0][j] = j / coins[0];
+    //        }
+    //     }
+        
+    //     for(int i=1;i<coins.size();i++){
+    //         for(int j=0;j<=amount;j++){
+    //             int nottake=dp[i-1][j];
+    //             int take=INT_MAX-1;
+    //             int take1=INT_MAX-1;
+    //             if(coins[i]<=j){
+    //                 take=1+dp[i-1][j-1];
+    //                 take1=1+dp[i][j-1];
+    //             }
+    //             dp[i][j]=min(nottake,min(take,take1));
+    //         }
+    //     }
+    //     return dp[coins.size()-1][amount];
+    // }
 };
