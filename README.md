@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
