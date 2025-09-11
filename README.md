@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
