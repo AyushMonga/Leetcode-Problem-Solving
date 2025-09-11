@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
 ## Sliding Window
 |  |
