@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
+| [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
 ## Database
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -557,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
