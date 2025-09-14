@@ -1,32 +1,31 @@
 class Solution {
 public:
-    void helper(int idx,int target,vector<int>&candidates,vector<int>&path,vector<vector<int>>&ans){
+    void helper(int idx,vector<int>&candidates,int target,vector<int>&sub,vector<vector<int>>&ans){
         if(target==0){
-            ans.push_back({path});
+            ans.push_back(sub);
             return;
         }
         if(idx==candidates.size() || target<0){
             return;
         }
-        path.push_back(candidates[idx]);
-        helper(idx+1,target-candidates[idx],candidates,path,ans);
-        helper(idx,target-candidates[idx],candidates,path,ans);
-        path.pop_back();
-        helper(idx+1,target,candidates,path,ans);
-
+        sub.push_back(candidates[idx]);
+        helper(idx+1,candidates,target-candidates[idx],sub,ans);
+        helper(idx,candidates,target-candidates[idx],sub,ans);
+        sub.pop_back();
+        helper(idx+1,candidates,target,sub,ans);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<int>sub;
         vector<vector<int>>ans;
-        vector<int>path;
-        helper(0,target,candidates,path,ans);
+        helper(0,candidates,target,sub,ans);
         set<vector<int>>st;
-        for(int i=0;i<ans.size();i++){
-            st.insert(ans[i]);
+        for(auto it:ans){
+            st.insert(it);
         }
-        vector<vector<int>>res;
+        vector<vector<int>>result;
         for(auto it:st){
-            res.push_back(it);
+            result.push_back(it);
         }
-        return res;
+        return result;
     }
 };
