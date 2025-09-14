@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
+| [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
 ## Greedy
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
+| [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
 ## Recursion
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
 ## Memoization
 |  |
 | ------- |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
 ## Number Theory
 |  |
 | ------- |
