@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Database
 |  |
 | ------- |
