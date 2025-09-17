@@ -16,11 +16,10 @@ public:
         return 1+max(depth(root->left),depth(root->right));
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        if(!root){
-            return 0;
-        }
+        if(!root)return 0;
         int left=depth(root->left);
         int right=depth(root->right);
-        return max(left+right,max(diameterOfBinaryTree(root->left),diameterOfBinaryTree(root->right)));
+        int ans=left+right;
+        return max(ans,max(diameterOfBinaryTree(root->left),diameterOfBinaryTree(root->right)));
     }
 };
