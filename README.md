@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0131-palindrome-partitioning) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0206-reverse-linked-list) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
