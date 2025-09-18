@@ -1,13 +1,12 @@
 class Solution {
 public:
-    void helper(int idx,int&k,vector<int>&nums,vector<int>&comb,vector<vector<int>>&ans){
+    void helper(int idx,int k,vector<int>&nums,vector<int>&comb,vector<vector<int>>&ans){
         if(comb.size()==k){
             ans.push_back(comb);
             return;
         }
-        if(idx==nums.size()){
-            return;
-        }
+        if(idx>nums.size()-1)return;
+    
         comb.push_back(nums[idx]);
         helper(idx+1,k,nums,comb,ans);
         comb.pop_back();
