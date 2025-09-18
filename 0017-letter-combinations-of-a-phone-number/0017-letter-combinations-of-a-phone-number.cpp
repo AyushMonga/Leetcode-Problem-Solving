@@ -7,7 +7,7 @@ public:
             return res;
         }
         
-        unordered_map<char, string> digitToLetters = {
+        unordered_map<char,string> digitToLetters = {
             {'2', "abc"},
             {'3', "def"},
             {'4', "ghi"},
@@ -23,13 +23,13 @@ public:
         return res;        
     }
 
-    void backtrack(const string& digits, int idx, string comb, vector<string>& res, const unordered_map<char, string>& digitToLetters) {
+    void backtrack(string& digits, int idx, string comb, vector<string>& res, unordered_map<char, string>& digitToLetters) {
         if (idx == digits.length()) {
             res.push_back(comb);
             return;
         }
         
-        string letters = digitToLetters.at(digits[idx]);
+        string letters = digitToLetters[digits[idx]];
         for (char letter : letters) {
             backtrack(digits, idx + 1, comb + letter, res, digitToLetters);
         }
