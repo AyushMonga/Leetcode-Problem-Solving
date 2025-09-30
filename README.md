@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2625-increment-submatrices-by-one](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bitmask
 |  |
 | ------- |
