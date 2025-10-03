@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
