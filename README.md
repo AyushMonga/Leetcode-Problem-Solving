@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0498-diagonal-traverse) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
