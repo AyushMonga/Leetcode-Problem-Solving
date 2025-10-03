@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0733-flood-fill) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0134-gas-station) |
+| [0605-can-place-flowers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1018-largest-perimeter-triangle) |
