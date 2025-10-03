@@ -2,8 +2,8 @@ class Solution {
 public:
     string reverseWords(string s) {
         stringstream ss(s);
-        string word;
         vector<string>words;
+        string word;
         while(ss>>word){
             words.push_back(word);
         }
@@ -14,7 +14,7 @@ public:
             i++;
             j--;
         }
-        string ans;
+        string ans="";
         for(int i=0;i<words.size()-1;i++){
             ans+=words[i];
             ans+=" ";
