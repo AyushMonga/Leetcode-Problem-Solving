@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0516-longest-palindromic-subsequence) |
