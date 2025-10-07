@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
