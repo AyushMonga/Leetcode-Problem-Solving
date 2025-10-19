@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
@@ -522,11 +523,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0303-range-sum-query-immutable) |
+| [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
 | [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
 ## Number Theory
 |  |
