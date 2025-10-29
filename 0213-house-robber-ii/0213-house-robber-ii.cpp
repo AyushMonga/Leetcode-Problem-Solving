@@ -1,48 +1,22 @@
 class Solution {
 public:
-    int helper1(int idx,vector<int>&nums,vector<int>&dp){
-        if(idx==1){
-            return nums[idx];
-        }
-        if(idx<1){
-            return 0;
-        }
-        if(dp[idx]!=-1){
-            return dp[idx];
-        }
-        if(dp[idx]==-1){
-        int pick=nums[idx]+helper1(idx-2,nums,dp);
-        int notpick=0+helper1(idx-1,nums,dp);
-        dp[idx]=max(pick,notpick);
-        }
-        return dp[idx];
-    }
-    int helper2(int idx,vector<int>&nums,vector<int>&dp){
-        if(idx==0){
-            return nums[idx];
-        }
-        if(idx<0){
-            return 0;
-        }
-        if(dp[idx]!=-1){
-            return dp[idx];
-        }
-        if(dp[idx]==-1){
-        int pick=nums[idx]+helper2(idx-2,nums,dp);
-        int notpick=0+helper2(idx-1,nums,dp);
-        dp[idx]=max(pick,notpick);
-        }
-        return dp[idx];
-    }
     int rob(vector<int>& nums) {
-        if(nums.size()==1){
-            return nums[0];
+        int n=nums.size();
+        if(n==0)return 0;
+        if(n==1)return nums[0];
+        if(n==2)return max(nums[0],nums[1]);
+        vector<int>dp1(n);
+        vector<int>dp2(n);
+        dp1[0]=nums[0];
+        dp1[1]=max(nums[0],nums[1]);
+        for(int i=2;i<n-1;i++){
+            dp1[i]=max(dp1[i-1],nums[i]+dp1[i-2]);
         }
-        vector<int>dp1(nums.size()+1,-1);
-        vector<int>dp2(nums.size()+1,-1);
-            
-        int a=helper1(nums.size()-1,nums,dp1);
-        int b=helper2(nums.size()-2,nums,dp2);
-        return max(a,b);
+        dp2[1]=nums[1];
+        dp2[2]=max(nums[1],nums[2]);
+        for(int i=3;i<n;i++){
+            dp2[i]=max(dp2[i-1],nums[i]+dp2[i-2]);
+        }
+        return max(dp1[n-2],dp2[n-1]);
     }
 };
