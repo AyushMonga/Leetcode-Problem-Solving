@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3462-vowels-game-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
 | [3830-find-closest-person](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3830-find-closest-person) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
