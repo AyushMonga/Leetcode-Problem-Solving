@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1894-merge-strings-alternately) |
