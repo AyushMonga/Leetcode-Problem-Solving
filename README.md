@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
+| [0645-set-mismatch](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Database
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0733-flood-fill) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
