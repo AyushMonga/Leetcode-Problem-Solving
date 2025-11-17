@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1392-find-the-difference-of-two-arrays](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-unique-number-of-occurrences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -742,4 +745,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/4073-lexicographically-smallest-string-after-reverse) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
