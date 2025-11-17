@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0162-find-peak-element) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0279-perfect-squares) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
