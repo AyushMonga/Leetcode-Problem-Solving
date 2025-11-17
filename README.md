@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1552-build-an-array-with-stack-operations](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1552-build-an-array-with-stack-operations](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
 ## Greedy
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0498-diagonal-traverse) |
+| [1552-build-an-array-with-stack-operations](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2058-concatenation-of-array) |
