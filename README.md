@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1552-build-an-array-with-stack-operations) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3954-maximum-balanced-shipments](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3954-maximum-balanced-shipments) |
 ## Number Theory
 |  |
