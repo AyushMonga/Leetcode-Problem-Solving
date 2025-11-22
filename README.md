@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0713-subarray-product-less-than-k) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
+| [0636-exclusive-time-of-functions](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
