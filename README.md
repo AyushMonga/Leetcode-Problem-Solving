@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3034-points-that-intersect-with-cars](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3034-points-that-intersect-with-cars) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2481-strictly-palindromic-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3462-vowels-game-in-a-string) |
