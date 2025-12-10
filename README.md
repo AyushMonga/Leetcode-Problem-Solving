@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3336-water-bottles-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3830-find-closest-person) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## String Matching
