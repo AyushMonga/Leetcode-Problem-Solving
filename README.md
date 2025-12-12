@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1025-minimum-cost-for-tickets) |
