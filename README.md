@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3606-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-number-in-infinite-set](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [3034-points-that-intersect-with-cars](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3034-points-that-intersect-with-cars) |
+| [3606-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
 ## Divide and Conquer
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2887-sort-vowels-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3462-vowels-game-in-a-string) |
 | [3567-convert-date-to-binary](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3567-convert-date-to-binary) |
+| [3606-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
 ## Hash Function
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
+| [3606-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
 ## Sliding Window
 |  |
