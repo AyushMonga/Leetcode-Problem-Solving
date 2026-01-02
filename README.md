@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-peak-index-in-a-mountain-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1018-largest-perimeter-triangle) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
