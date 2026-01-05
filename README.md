@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1798-max-number-of-k-sum-pairs](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1975-maximum-matrix-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2058-concatenation-of-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1036-rotting-oranges) |
+| [1975-maximum-matrix-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Trie
