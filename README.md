@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2625-increment-submatrices-by-one](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2625-increment-submatrices-by-one) |
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
