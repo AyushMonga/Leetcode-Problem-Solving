@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1390-four-divisors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1236-n-th-tribonacci-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
