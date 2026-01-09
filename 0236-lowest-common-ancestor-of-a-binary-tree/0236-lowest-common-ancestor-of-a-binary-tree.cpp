@@ -21,8 +21,6 @@ public:
         else if(right==NULL){
             return left;
         }
-        else{
-            return root;
-        }
+        return root;
     }
 };
