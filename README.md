@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-number-in-infinite-set](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [3034-points-that-intersect-with-cars](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3034-points-that-intersect-with-cars) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2324-find-triangular-sum-of-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3336-water-bottles-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2413-smallest-number-in-infinite-set](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -768,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2413-smallest-number-in-infinite-set) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
@@ -814,4 +820,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1266-minimum-time-visiting-all-points) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
