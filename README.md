@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3034-points-that-intersect-with-cars) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3934-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3934-coupon-code-validator) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4073-lexicographically-smallest-string-after-reverse](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/4073-lexicographically-smallest-string-after-reverse) |
 ## Counting Sort
 |  |
