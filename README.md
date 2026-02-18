@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0693-binary-number-with-alternating-bits) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Database
