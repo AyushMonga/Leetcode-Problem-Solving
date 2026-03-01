@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1894-merge-strings-alternately) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0979-di-string-match](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
