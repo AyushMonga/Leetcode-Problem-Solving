@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1777-determine-if-two-strings-are-close) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
