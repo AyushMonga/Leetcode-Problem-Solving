@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0283-move-zeroes) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
