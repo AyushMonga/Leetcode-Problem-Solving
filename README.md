@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0208-implement-trie-prefix-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0392-is-subsequence) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0455-assign-cookies) |
