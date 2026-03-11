@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/1009-complement-of-base-10-integer) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Database
