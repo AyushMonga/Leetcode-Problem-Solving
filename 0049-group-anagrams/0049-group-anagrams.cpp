@@ -4,9 +4,9 @@ public:
         vector<vector<string>>ans;
         unordered_map<string,vector<string>>mp;
         for(int i=0;i<strs.size();i++){
-            string s=strs[i];
-            sort(s.begin(),s.end());
-            mp[s].push_back(strs[i]);
+            string dup=strs[i];
+            sort(dup.begin(),dup.end());
+            mp[dup].push_back(strs[i]);
         }
         for(auto it:mp){
             ans.push_back(it.second);
