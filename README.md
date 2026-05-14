@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2784-check-if-array-is-good](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3034-points-that-intersect-with-cars](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3034-points-that-intersect-with-cars) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2413-smallest-number-in-infinite-set) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2784-check-if-array-is-good) |
 | [3034-points-that-intersect-with-cars](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3034-points-that-intersect-with-cars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3606-coupon-code-validator) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2636-maximum-subsequence-score](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AyushMonga/Leetcode-Problem-Solving/tree/master/3075-maximize-happiness-of-selected-children) |
